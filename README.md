@@ -1,5 +1,5 @@
 # repo-to-fork-and-pull
-A simple repo to try out forking and creating pull requests. 
+A simple repo to try out forking and creating pull requests. / Un repositorio sencillo para probar las funcionalidades de fork y crear pull request. 
 
 ## Instrucciones
 1. Haz un "fork" de este repositorio. 
@@ -8,4 +8,4 @@ A simple repo to try out forking and creating pull requests.
 
 
 ## Lista de personas de clase (EDITAR AQUÍ!!)
-1. Marta - Le gusta jugar a Los Sims 4. 
+1. Marta Sastre Haro - Le gusta jugar a Los Sims 4. 
