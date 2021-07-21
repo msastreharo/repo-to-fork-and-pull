@@ -24,3 +24,4 @@ A simple repo to try out forking and creating pull requests. / Un repositorio se
 13. Daniela T. - Si a Yasmin le gusta hacer branch, a mi gusta hacer Brunch:) 
 14. Ana García - me gusta leer en una playa tranquila..
 15. A Olga le gusta hacer manualidades
+16. Gaby - me gustan los animales
