@@ -25,3 +25,4 @@ A simple repo to try out forking and creating pull requests. / Un repositorio se
 14. Ana García - me gusta leer en una playa tranquila..
 15. A Olga le gusta hacer manualidades
 16. Gaby - me gustan los animales
+17. Amanda - Me gusta leer, libros de epoca y fantasia.
