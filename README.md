@@ -18,3 +18,4 @@ A simple repo to try out forking and creating pull requests. / Un repositorio se
 7. Me llamo Inga y me gusta forkear repos
 8. Nicole - me gusta cantar, dibujar y jugar Dota2!
 9. Pepi Martín. Me gusta conducir escuchando música.
+10. Clau Campos, mi hobby es la fotografía :)
