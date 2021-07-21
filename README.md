@@ -11,3 +11,4 @@ A simple repo to try out forking and creating pull requests. / Un repositorio se
 1. Marta Sastre Haro - Le gusta jugar a Los Sims 4. 
 2. Mi nombre - me gusta cocinar comida italiana 
 3. Leo de León - series de criminales/monstruos
+4. Nicole - me gusta cantar, dibujar y jugar Dota2! 
