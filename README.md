@@ -9,5 +9,5 @@ A simple repo to try out forking and creating pull requests. / Un repositorio se
 
 ## Lista de personas de clase (EDITAR AQUÍ!!)
 1. Marta Sastre Haro - Le gusta jugar a Los Sims 4. 
-2. Mi nombre - me gusta cocinar comida italiana 
+2. Yasmín - Le gusta hacer branch.
 3. Leo de León - series de criminales/monstruos
