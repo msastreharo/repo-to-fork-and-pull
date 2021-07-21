@@ -26,3 +26,4 @@ A simple repo to try out forking and creating pull requests. / Un repositorio se
 15. A Olga le gusta hacer manualidades
 16. Gaby - me gustan los animales
 17. Amanda - Me gusta leer, libros de epoca y fantasia.
+18. Sònia Mestre- Viajar23.
