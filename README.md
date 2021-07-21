@@ -21,4 +21,4 @@ A simple repo to try out forking and creating pull requests. / Un repositorio se
 10. Clau Campos, mi hobby es la fotografía :)
 11. Angie Flower - me gusta leer
 12. Daniela Rodríguez - Me gusta comer 
-
+13. Daniela T. - Si a Yasmin le gusta hacer branch, a mi gusta hacer Brunch:) 
