@@ -29,3 +29,4 @@ A simple repo to try out forking and creating pull requests. / Un repositorio se
 18. Sònia Mestre- Viajar23.
 19. ElianaSolsona - me gusta tunear
 20. Marta García - Manga y Anime japonés
+21. Alisa - me gusta animales
