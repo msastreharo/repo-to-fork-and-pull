@@ -22,3 +22,4 @@ A simple repo to try out forking and creating pull requests. / Un repositorio se
 11. Angie Flower - me gusta leer
 12. Daniela Rodríguez - Me gusta comer 
 13. Daniela T. - Si a Yasmin le gusta hacer branch, a mi gusta hacer Brunch:) 
+14. Ana García - me gusta leer en una playa tranquila..
